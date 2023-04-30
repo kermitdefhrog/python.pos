@@ -1,0 +1,15 @@
+Reciept
+Date: 04-29-2023
+Time: 19:55:50
+3 M Popcorn $29.97
+
+Total: $29.97
+Tax: $2.25
+Final Total: $32.22
+
+
+Cash Tendered: $33.22
+Change: $1.00
+
+You were served by 
+Have a nice day!

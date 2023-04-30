@@ -1,0 +1,15 @@
+Reciept
+Date: 04-29-2023
+Time: 19:48:07
+1 shake $7.99
+
+Total: $7.99
+Tax: $0.60
+Final Total: $8.59
+
+
+Cash Tendered: $8.59
+Change: $0.00
+
+You were served by 
+Have a nice day!

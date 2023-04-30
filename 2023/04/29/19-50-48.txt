@@ -1,0 +1,15 @@
+Reciept
+Date: 04-29-2023
+Time: 19:50:48
+5 L Soda $27.50
+
+Total: $27.50
+Tax: $2.06
+Final Total: $29.56
+
+
+Cash Tendered: $77.77
+Change: $48.21
+
+You were served by 
+Have a nice day!

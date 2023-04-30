@@ -1,0 +1,16 @@
+Reciept
+Date: 04-29-2023
+Time: 16:14:04
+5 Chislic $64.95
+
+Total: $64.95
+Tax: $4.87
+Final Total: $69.82
+
+
+Cash Tendered: $70.00
+Change: $0.18
+
+You were served by kermit
+
+Have a nice day!

@@ -1,0 +1,20 @@
+Reciept
+Date: 04-29-2023
+Time: 19:59:07
+1 L Candy $5.50
+1 M Candy $4.99
+
+Total: $5.50
+Tax: $0.41
+Final Total: $5.91
+Total: $10.49
+Tax: $0.79
+Final Total: $11.28
+
+
+Cash Tendered: $12.00
+Change: $0.72
+
+You were served by kermit
+
+Have a nice day!

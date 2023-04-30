@@ -1,0 +1,17 @@
+Reciept
+Date: 04-29-2023
+Time: 15:51:04
+1 M Popcorn $9.99
+155 S Popcorn $1238.45
+
+Total: $1248.44
+Tax: $93.63
+Final Total: $1342.07
+
+
+Cash Tendered: $13575.47
+Change: $12233.40
+
+You were served by kermit
+
+Have a nice day!

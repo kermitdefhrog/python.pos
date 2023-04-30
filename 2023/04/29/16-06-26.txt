@@ -1,0 +1,16 @@
+Reciept
+Date: 04-29-2023
+Time: 16:06:26
+44 M Popcorn $439.56
+19 L Soda $104.50
+
+Total: $544.06
+Tax: $40.80
+Final Total: $584.86
+
+
+Cash Tendered: $584.86
+Change: $0.00
+
+You were served by 
+Have a nice day!

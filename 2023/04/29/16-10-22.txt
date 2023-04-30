@@ -1,0 +1,16 @@
+Reciept
+Date: 04-29-2023
+Time: 16:10:22
+10 L Soda $55.00
+
+Total: $55.00
+Tax: $4.12
+Final Total: $59.12
+
+
+Cash Tendered: $60.00
+Change: $0.88
+
+You were served by kermit
+
+Have a nice day!

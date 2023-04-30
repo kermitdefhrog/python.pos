@@ -1,0 +1,24 @@
+Reciept
+Date: 04-29-2023
+Time: 19:57:28
+1 S Soda $3.99
+1 Chislic $12.99
+1 L Candy $5.50
+
+Total: $3.99
+Tax: $0.30
+Final Total: $4.29
+Total: $16.98
+Tax: $1.27
+Final Total: $18.25
+Total: $22.48
+Tax: $1.69
+Final Total: $24.17
+
+
+Cash Tendered: $24.17
+Change: $0.00
+
+You were served by kermit
+
+Have a nice day!
